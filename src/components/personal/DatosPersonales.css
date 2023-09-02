@@ -1,0 +1,11 @@
+.container {
+    overflow: hidden; /* Para mantener el contenedor a la altura de los elementos internos */
+  }
+  
+  p {
+    float: left; /* Para posicionar el texto a la izquierda */
+  }
+  
+  img {
+    float: right; /* Para posicionar la imagen a la derecha */
+  }
