@@ -8,4 +8,5 @@
   
   img {
     float: right; /* Para posicionar la imagen a la derecha */
+      width: 100px;
   }
