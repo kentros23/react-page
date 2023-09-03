@@ -98,7 +98,7 @@ export const DatosPersonales = () => {
     
 			</div>
       <div className="card">
-    <img src={image} alt="" />
+    <img src={images} alt="" />
     </div>
     </div>
     
