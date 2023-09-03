@@ -10,7 +10,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 
 import INFO from '../images/user';
-
+import images from '../images/foto.jpg';
 
 export const DatosPersonales = () => {
   return (
@@ -98,7 +98,7 @@ export const DatosPersonales = () => {
     
 			</div>
       <div className="card">
-    <img src={INFO.main.Image} alt="" />
+    <img src={image} alt="" />
     </div>
     </div>
     
